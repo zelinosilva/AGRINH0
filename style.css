@@ -1,0 +1,12 @@
+.body{
+    padding: auto;
+    margin: 0%;
+}
+
+.cabeçalho{
+
+    background-color: darkgreen;
+    margin: 5%;
+    padding: 10px;
+    text-align: center;
+}
