@@ -1,12 +1,21 @@
 .body{
     padding: auto;
-    margin: 0%;
+    margin: 0%
 }
 
 .cabeçalho{
-
     background-color: darkgreen;
     margin: 5%;
     padding: 10px;
     text-align: center;
 }
+
+.informações{
+    background-color: aquamarine;
+    margin: 16px;
+    padding: 10px;
+    text-align: justify;
+    
+}
+
+
