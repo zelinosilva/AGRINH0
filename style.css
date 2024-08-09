@@ -1,21 +1,31 @@
 .body{
+    font-size: 120%;
     padding: auto;
-    margin: 0%
+    margin: 10%;
+    text-align: center;
+    background-color: rgb(14, 107, 23);
 }
 
 .cabeçalho{
-    background-color: darkgreen;
-    margin: 5%;
+    background-color: rgb(63, 237, 43);
+    margin: 10%;
     padding: 10px;
     text-align: center;
 }
 
 .informações{
-    background-color: aquamarine;
-    margin: 16px;
+    background-color: rgb(27, 198, 110);
+    margin: 10px;
     padding: 10px;
     text-align: justify;
-    
 }
+
+.imagens{
+    width: 50%;
+}
+
+
+
+
 
 
